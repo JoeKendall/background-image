@@ -81,6 +81,7 @@
 	  		    });
 	  		  }
 	  		};
+      	/* STYLE */
       		//changeBackground() passed file.name.
       		//add body style of the image, gets rid of the instructions, shows tools, and after half second, deletes the uploaded file.
       		//because called on(complete), however big the image delete will be called half second after it has COMPLETED uploading.
